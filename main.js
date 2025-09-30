@@ -67,7 +67,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
     Typed Js 
 ====================== */
 const typed = new Typed(".multiple-text", {
-  strings: ["NEWBIE", "Content Creator", "Designer"],
+  strings: ["Nguyễn Hải Nam"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
